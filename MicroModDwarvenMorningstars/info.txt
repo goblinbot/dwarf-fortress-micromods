@@ -1,0 +1,18 @@
+[ID:micro_dwarven_morningstars]
+[NUMERIC_VERSION:50050]
+[DISPLAYED_VERSION:50.05.00]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod enable Morningstars]
+[DESCRIPTION:Unlocks (just) the foreign weapon Morningstars for your Dwarves.]
+
+[STEAM_TITLE:MicroMod enable Morningstars]
+[STEAM_DESCRIPTION:Unlocks (just) the foreign weapon Morningstars for your Dwarves.]
+[STEAM_TAG:mod]
+[STEAM_TAG:weapon]
+[STEAM_TAG:item]
+[STEAM_TAG:tweak]
+[STEAM_CHANGELOG:Initial upload]
+
+[STEAM_FILE_ID:2924269886]

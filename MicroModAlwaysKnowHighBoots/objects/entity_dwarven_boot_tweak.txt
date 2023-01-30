@@ -1,0 +1,6 @@
+entity_dwarven_boot_tweak
+
+[OBJECT:ENTITY]
+
+[SELECT_ENTITY:MOUNTAIN]
+	[SHOES:ITEM_SHOES_BOOTS:FORCED]

@@ -1,0 +1,8 @@
+tile_page_plants
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:PLANT_SUNFLOWER]
+	[FILE:images/plant_sunflower.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:32]

@@ -1,0 +1,5 @@
+item_weapon_obby_knife
+[OBJECT:ITEM]
+
+[SELECT_ITEM:ITEM_WEAPON_DAGGER_LARGE]
+	[CAN_STONE]

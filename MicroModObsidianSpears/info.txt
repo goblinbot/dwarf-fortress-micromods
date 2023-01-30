@@ -1,0 +1,18 @@
+[ID:micro_obsidian_spears]
+[NUMERIC_VERSION:5005]
+[DISPLAYED_VERSION:50.05]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod Obsidian Spears]
+[DESCRIPTION:Adds the ability create spears from obsidian by stonecrafting.]
+
+[STEAM_TITLE:MicroMod Obsidian Spears]
+[STEAM_DESCRIPTION:Adds the ability create spears from obsidian by stonecrafting.]
+[STEAM_TAG:mod]
+[STEAM_TAG:weapon]
+[STEAM_TAG:tweak]
+[STEAM_TAG:item]
+[STEAM_CHANGELOG:Added steam tags]
+
+[STEAM_FILE_ID:2920603216]

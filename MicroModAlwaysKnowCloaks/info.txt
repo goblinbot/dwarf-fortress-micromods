@@ -1,0 +1,19 @@
+[ID:micro_always_know_cloaks]
+[NUMERIC_VERSION:50050]
+[DISPLAYED_VERSION:50.05.00]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod always Cloaks
+[DESCRIPTION:Sets Cloaks to 'Forced', making them always available/craftable for Dwarves.]
+
+[STEAM_TITLE:MicroMod always Cloaks]
+[STEAM_DESCRIPTION:Sets Cloaks to 'Forced', making them always available/craftable for Dwarves.]
+[STEAM_TAG:mod]
+[STEAM_TAG:armor]
+[STEAM_TAG:clothing]
+[STEAM_TAG:tweak]
+[STEAM_CHANGELOG: Initial upload]
+
+
+[STEAM_FILE_ID:2922842361]

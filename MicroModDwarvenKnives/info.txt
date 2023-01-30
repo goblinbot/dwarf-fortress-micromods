@@ -1,0 +1,18 @@
+[ID:micro_dwarven_daggers]
+[NUMERIC_VERSION:5005]
+[DISPLAYED_VERSION:50.05]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod enable Daggers/Knives]
+[DESCRIPTION:Cultists, bandits and rogues? Oh my! Unlocks Large Knifes / Daggers for Dwarves.]
+
+[STEAM_TITLE:MicroMod enable Daggers/Knives]
+[STEAM_DESCRIPTION:Cultists, bandits and rogues? Oh my! Unlocks Large Knifes / Daggers for Dwarves.]
+[STEAM_TAG:mod]
+[STEAM_TAG:weapon]
+[STEAM_TAG:item]
+[STEAM_TAG:tweak]
+[STEAM_CHANGELOG:Initial upload]
+
+[STEAM_FILE_ID:2922428425]

@@ -1,0 +1,18 @@
+[ID:micro_brass_knuckles]
+[NUMERIC_VERSION:500501]
+[DISPLAYED_VERSION:50.05.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod Brass Knuckles]
+[DESCRIPTION:Adds metal knuckles as weapons - in the style of brass knuckledusters. Uses the striker skill. Unique variant for Brass.]
+
+[STEAM_TITLE:MicroMod Brass Knuckles]
+[STEAM_DESCRIPTION:Adds metal knuckles as weapons - in the style of brass knuckledusters. Uses the striker skill. Unique variant for Brass.]
+[STEAM_TAG:mod]
+[STEAM_TAG:weapon]
+[STEAM_TAG:tweak]
+[STEAM_TAG:item]
+[STEAM_CHANGELOG:Initial upload]
+
+[STEAM_FILE_ID:2925919695]

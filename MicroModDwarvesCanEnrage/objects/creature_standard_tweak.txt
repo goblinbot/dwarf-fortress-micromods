@@ -1,0 +1,6 @@
+creature_standard_tweak
+
+[OBJECT:CREATURE]
+
+[SELECT_CREATURE:DWARF]
+	[PRONE_TO_RAGE:10]

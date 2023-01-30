@@ -1,0 +1,18 @@
+[ID:micro_always_know_highboots]
+[NUMERIC_VERSION:50051]
+[DISPLAYED_VERSION:50.05.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod always High Boots]
+[DESCRIPTION:Sets High Boots to 'Forced', making them always available/craftable for Dwarves.]
+
+[STEAM_TITLE:MicroMod always High Boots]
+[STEAM_DESCRIPTION:Sets High Boots to 'Forced', making them always available/craftable for Dwarves.]
+[STEAM_TAG:mod]
+[STEAM_TAG:armor]
+[STEAM_TAG:clothing]
+[STEAM_TAG:tweak]
+[STEAM_CHANGELOG:Added missing Object tag to Entity]
+
+[STEAM_FILE_ID:2921018085]

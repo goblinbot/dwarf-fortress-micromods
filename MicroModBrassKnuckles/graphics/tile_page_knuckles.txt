@@ -1,0 +1,8 @@
+tile_page_knuckles
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:ITEM_KNUCKLES]
+	[FILE:images/item_weapon_knuckles.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]

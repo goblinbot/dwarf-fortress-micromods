@@ -1,0 +1,6 @@
+item_weapon_obby_spear
+
+[OBJECT:ITEM]
+
+[SELECT_ITEM:ITEM_WEAPON_SPEAR]
+	[CAN_STONE]

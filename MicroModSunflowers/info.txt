@@ -1,0 +1,16 @@
+[ID:micro_sunflowers]
+[NUMERIC_VERSION:500500]
+[DISPLAYED_VERSION:50.05]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5004]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.04]
+[AUTHOR:GGbot]
+[NAME:MicroMod Sunflowers]
+[DESCRIPTION:Adds the Common Sunflower to the surface world, a multi-purpose flower with edible seeds and useful oil.]
+
+[STEAM_TITLE:MicroMod Sunflowers]
+[STEAM_DESCRIPTION:Adds the Common Sunflower to the surface world, a multi-purpose flower with edible seeds and useful oil.]
+[STEAM_TAG:mod]
+[STEAM_TAG:plant]
+[STEAM_CHANGELOG:Initial upload]
+
+[STEAM_FILE_ID:2923014904]
